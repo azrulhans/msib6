@@ -3,6 +3,7 @@ Kumpulan materi MSIB 6
 -GITHUB
 -UI/UX
 -JAVASCRIPT
--PHP
+-mysql
 -LARAVEL
+-belajar bersama
 //GIT UNTUK MENAMBAHKAN FILE
